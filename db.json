@@ -1,27 +1,27 @@
 {
   "leaderboard": [
     {
-      "imgUrl": "assets/images/voiting/shield.png",
+      "imgUrl": "/content/dam/digicel/header/securityIcon.png",
       "title": "JAMAICA HIGH SCHOOL",
       "points": 2346
     },
     {
-      "imgUrl": "assets/images/voiting/shield.png",
+      "imgUrl": "/content/dam/digicel/header/securityIcon.png",
       "title": "MILO HIGH SCHOOL",
       "points": 2200
     },
     {
-      "imgUrl": "assets/images/voiting/shield.png",
+      "imgUrl": "/content/dam/digicel/header/securityIcon.png",
       "title": "PATRICK HIGH SCHOOL",
       "points": 2050
     },
     {
-      "imgUrl": "assets/images/voiting/shield.png",
+      "imgUrl": "/content/dam/digicel/header/securityIcon.png",
       "title": "ROBERT HIGH SCHOOL",
       "points": 1900
     },
     {
-      "imgUrl": "assets/images/voiting/shield.png",
+      "imgUrl": "/content/dam/digicel/header/securityIcon.png",
       "title": "CHRIS HIGH SCHOOL",
       "points": 1887
     }
