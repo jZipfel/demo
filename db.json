@@ -1,14 +1,29 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "leaderboard": [
+    {
+      "imgUrl": "assets/images/voiting/shield.png",
+      "title": "JAMAICA HIGH SCHOOL",
+      "points": 2346
+    },
+    {
+      "imgUrl": "assets/images/voiting/shield.png",
+      "title": "MILO HIGH SCHOOL",
+      "points": 2200
+    },
+    {
+      "imgUrl": "assets/images/voiting/shield.png",
+      "title": "PATRICK HIGH SCHOOL",
+      "points": 2050
+    },
+    {
+      "imgUrl": "assets/images/voiting/shield.png",
+      "title": "ROBERT HIGH SCHOOL",
+      "points": 1900
+    },
+    {
+      "imgUrl": "assets/images/voiting/shield.png",
+      "title": "CHRIS HIGH SCHOOL",
+      "points": 1887
+    }
+  ]
 }
