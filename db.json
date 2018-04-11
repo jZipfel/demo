@@ -2,27 +2,27 @@
   "leaderboard": [
     {
       "imgUrl": "/content/dam/digicel/header/securityIcon.png",
-      "title": "JAMAICA HIGH SCHOOL",
+      "name": "JAMAICA HIGH SCHOOL",
       "points": 2346
     },
     {
       "imgUrl": "/content/dam/digicel/header/securityIcon.png",
-      "title": "MILO HIGH SCHOOL",
+      "name": "MILO HIGH SCHOOL",
       "points": 2200
     },
     {
       "imgUrl": "/content/dam/digicel/header/securityIcon.png",
-      "title": "PATRICK HIGH SCHOOL",
+      "name": "PATRICK HIGH SCHOOL",
       "points": 2050
     },
     {
       "imgUrl": "/content/dam/digicel/header/securityIcon.png",
-      "title": "ROBERT HIGH SCHOOL",
+      "name": "ROBERT HIGH SCHOOL",
       "points": 1900
     },
     {
       "imgUrl": "/content/dam/digicel/header/securityIcon.png",
-      "title": "CHRIS HIGH SCHOOL",
+      "name": "CHRIS HIGH SCHOOL",
       "points": 1887
     }
   ]
